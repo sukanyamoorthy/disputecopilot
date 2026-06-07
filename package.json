@@ -1,0 +1,20 @@
+{
+  "name": "recourse",
+  "version": "0.1.0",
+  "description": "Retrieval-grounded dispute & refund resolution copilot. Moss for retrieval, TrueFoundry for the governed LLM, with local fallbacks so it runs out of the box.",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js",
+    "ingest": "node scripts/ingest.js",
+    "ingest-pdf": "node scripts/ingest-pdf.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.6.1",
+    "express": "^4.22.2",
+    "openai": "^4.104.0"
+  },
+  "optionalDependencies": {
+    "@moss-dev/moss": "*"
+  }
+}

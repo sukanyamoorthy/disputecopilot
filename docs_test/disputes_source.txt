@@ -1,0 +1,13 @@
+UNAUTHORIZED ELECTRONIC FUND TRANSFERS — CONSUMER LIABILITY
+
+Section 1005.6 Liability of consumer for unauthorized transfers.
+(a) Conditions for liability. A consumer may be held liable, within the limitations described in paragraph (b) of this section, for an unauthorized electronic fund transfer involving the consumer's account only if the financial institution has provided the disclosures required by Sec. 1005.7(b)(1), (2), and (3). If the unauthorized transfer involved the loss or theft of an access device, the institution may impose liability only if it provided a means to identify the consumer.
+
+(b) Limitations on amount of liability. The amount of a consumer's liability for an unauthorized electronic fund transfer is determined as follows: Timely notice within two business days limits liability to fifty dollars. Failure to notify within two business days raises liability to five hundred dollars. Failure to report within sixty days of the periodic statement may result in unlimited liability for transfers occurring after the sixty-day period.
+
+ERROR RESOLUTION PROCEDURES
+
+Section 1005.11 Procedures for resolving errors.
+(a) Definition of error. An error includes an unauthorized electronic fund transfer, an incorrect transfer to or from the account, and a consumer's request for documentation or clarification.
+(b) Notice of error from consumer. A financial institution shall comply with the requirements of this section with respect to any oral or written notice of error received within sixty days after it sends a periodic statement.
+(c) Time limits and extent of investigation. A financial institution shall investigate promptly and determine whether an error occurred within ten business days of receiving a notice of error. The institution may take up to forty-five days if it provisionally credits the consumer's account for the amount of the alleged error within ten business days.

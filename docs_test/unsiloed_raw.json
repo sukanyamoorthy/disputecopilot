@@ -1,0 +1,3280 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "30057139-371b-4137-a35f-da14431a22be",
+      "chunk_length": 296,
+      "embed": "UNAUTHORIZED ELECTRONIC FUND TRANSFERS CONSUMER LIABILITY\n—\nSection Liability of consumer for unauthorized\n1005.6 transfers.\n(a) Conditions for A consumer may be held within the limitati\nliability. liable,\nons described in paragraph (b) of this for an unauthorized electronic f\nsection,\nund transfer involving the consumer's account only if the financial institution\nhas provided the disclosures required by and If the\nSec. 1005.7(b)(1), (2), (3).\nunauthorized transfer involved the loss or theft of an access the insti\ndevice,\ntution may impose liability only if it provided a means to identify the consumer\n.\n(b) Limitations on amount of The amount of a consumer's liability for\nliability.\nan unauthorized electronic fund transfer is determined as follows: Timely notic\ne within two business days limits liability to fifty Failure to notify\ndollars.\nwithin two business days raises liability to five hundred Failure to re\ndollars.\nport within sixty days of the periodic statement may result in unlimited liabili\nty for transfers occurring after the sixty-day\nperiod.\nERROR RESOLUTION PROCEDURES\nSection Procedures for resolving\n1005.11 errors.\n(a) Definition of An error includes an unauthorized electronic fund trans\nerror.\nan incorrect transfer to or from the and a consumer's request for\nfer, account,\ndocumentation or\nclarification.\n(b) Notice of error from A financial institution shall comply with the\nconsumer.\nrequirements of this section with respect to any oral or written notice of erro\nr received within sixty days after it sends a periodic\nstatement.\n(c) Time limits and extent of A financial institution shall inves\ninvestigation.\ntigate promptly and determine whether an error occurred within ten business days\nof receiving a notice of The institution may take up to forty-five days\nerror.\nif it provisionally credits the consumer's account for the amount of the alleged\nerror within ten business\ndays.",
+      "segments": [
+        {
+          "bbox": {
+            "height": 30.090972900390625,
+            "left": 31.773319244384766,
+            "top": 34.4891471862793,
+            "width": 856.7909545898438
+          },
+          "confidence": 0.5153293609619141,
+          "content": "UNAUTHORIZED ELECTRONIC FUND TRANSFERS CONSUMER LIABILITY\n—",
+          "html": "UNAUTHORIZED ELECTRONIC FUND TRANSFERS CONSUMER LIABILITY<br />\n—",
+          "image": null,
+          "markdown": "UNAUTHORIZED ELECTRONIC FUND TRANSFERS CONSUMER LIABILITY\n—",
+          "ocr": [
+            {
+              "bbox": {
+                "height": 18.1920166015625,
+                "left": 2.9146804809570312,
+                "top": 4.750843048095703,
+                "width": 170.40240478515625
+              },
+              "confidence": null,
+              "text": "UNAUTHORIZED"
+            },
+            {
+              "bbox": {
+                "height": 18.1920166015625,
+                "left": 191.0338897705078,
+                "top": 4.750843048095703,
+                "width": 139.98973083496094
+              },
+              "confidence": null,
+              "text": "ELECTRONIC"
+            },
+            {
+              "bbox": {
+                "height": 18.1920166015625,
+                "left": 349.7484436035156,
+                "top": 4.750843048095703,
+                "width": 54.0072021484375
+              },
+              "confidence": null,
+              "text": "FUND"
+            },
+            {
+              "bbox": {
+                "height": 18.1920166015625,
+                "left": 419.6484375,
+                "top": 4.750843048095703,
+                "width": 127.60308837890625
+              },
+              "confidence": null,
+              "text": "TRANSFERS"
+            },
+            {
+              "bbox": {
+                "height": 1.43994140625,
+                "left": 563.9602661132812,
+                "top": 15.310901641845703,
+                "width": 12.72003173828125
+              },
+              "confidence": null,
+              "text": "—"
+            },
+            {
+              "bbox": {
+                "height": 18.1920166015625,
+                "left": 593.3170776367188,
+                "top": 4.750843048095703,
+                "width": 113.5367431640625
+              },
+              "confidence": null,
+              "text": "CONSUMER"
+            },
+            {
+              "bbox": {
+                "height": 18.1920166015625,
+                "left": 724.1145629882812,
+                "top": 4.750843048095703,
+                "width": 126.450927734375
+              },
+              "confidence": null,
+              "text": "LIABILITY"
+            }
+          ],
+          "page_height": 1584,
+          "page_number": 1,
+          "page_width": 1224,
+          "references": null,
+          "segment_id": "d37534f6-409d-447e-8562-6eb4702cd031",
+          "segment_type": "Text"
+        },
+        {
+          "bbox": {
+            "height": 193.89926147460938,
+            "left": 32.08881759643555,
+            "top": 82.58706665039062,
+            "width": 1160.6669921875
+          },
+          "confidence": 0.9468376636505127,
+          "content": "Section Liability of consumer for unauthorized\n1005.6 transfers.\n(a) Conditions for A consumer may be held within the limitati\nliability. liable,\nons described in paragraph (b) of this for an unauthorized electronic f\nsection,\nund transfer involving the consumer's account only if the financial institution\nhas provided the disclosures required by and If the\nSec. 1005.7(b)(1), (2), (3).\nunauthorized transfer involved the loss or theft of an access the insti\ndevice,\ntution may impose liability only if it provided a means to identify the consumer\n.",
+          "html": "Section Liability of consumer for unauthorized<br />\n1005.6 transfers.<br />\n(a) Conditions for A consumer may be held within the limitati<br />\nliability. liable,<br />\nons described in paragraph (b) of this for an unauthorized electronic f<br />\nsection,<br />\nund transfer involving the consumer's account only if the financial institution<br />\nhas provided the disclosures required by and If the<br />\nSec. 1005.7(b)(1), (2), (3).<br />\nunauthorized transfer involved the loss or theft of an access the insti<br />\ndevice,<br />\ntution may impose liability only if it provided a means to identify the consumer<br />\n.",
+          "image": null,
+          "markdown": "Section Liability of consumer for unauthorized\n1005.6 transfers.\n(a) Conditions for A consumer may be held within the limitati\nliability. liable,\nons described in paragraph (b) of this for an unauthorized electronic f\nsection,\nund transfer involving the consumer's account only if the financial institution\nhas provided the disclosures required by and If the\nSec. 1005.7(b)(1), (2), (3).\nunauthorized transfer involved the loss or theft of an access the insti\ndevice,\ntution may impose liability only if it provided a means to identify the consumer\n.",
+          "ocr": [
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 2.9591827392578125,
+                "top": 9.380950927734375,
+                "width": 97.28639221191406
+              },
+              "confidence": null,
+              "text": "Section"
+            },
+            {
+              "bbox": {
+                "height": 3.2640380859375,
+                "left": 118.53839111328125,
+                "top": 19.580902099609375,
+                "width": 83.36399841308594
+              },
+              "confidence": null,
+              "text": "1005.6"
+            },
+            {
+              "bbox": {
+                "height": 13.0799560546875,
+                "left": 219.7152099609375,
+                "top": 9.764984130859375,
+                "width": 126.66728210449219
+              },
+              "confidence": null,
+              "text": "Liability"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 362.1793518066406,
+                "top": 9.380950927734375,
+                "width": 26.978424072265625
+              },
+              "confidence": null,
+              "text": "of"
+            },
+            {
+              "bbox": {
+                "height": 13.0799560546875,
+                "left": 406.29852294921875,
+                "top": 9.764984130859375,
+                "width": 111.6407470703125
+              },
+              "confidence": null,
+              "text": "consumer"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 535.968017578125,
+                "top": 9.380950927734375,
+                "width": 39.580810546875
+              },
+              "confidence": null,
+              "text": "for"
+            },
+            {
+              "bbox": {
+                "height": 13.0799560546875,
+                "left": 593.28955078125,
+                "top": 9.764984130859375,
+                "width": 169.4903564453125
+              },
+              "confidence": null,
+              "text": "unauthorized"
+            },
+            {
+              "bbox": {
+                "height": 3.2640380859375,
+                "left": 779.9686279296875,
+                "top": 19.580902099609375,
+                "width": 137.589111328125
+              },
+              "confidence": null,
+              "text": "transfers."
+            },
+            {
+              "bbox": {
+                "height": 13.6080322265625,
+                "left": 3.319183349609375,
+                "top": 33.572967529296875,
+                "width": 38.7888069152832
+              },
+              "confidence": null,
+              "text": "(a)"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 60.1127815246582,
+                "top": 33.380950927734375,
+                "width": 140.82960510253906
+              },
+              "confidence": null,
+              "text": "Conditions"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 219.11520385742188,
+                "top": 33.380950927734375,
+                "width": 39.58082580566406
+              },
+              "confidence": null,
+              "text": "for"
+            },
+            {
+              "bbox": {
+                "height": 3.2640380859375,
+                "left": 276.1728820800781,
+                "top": 43.580902099609375,
+                "width": 137.3016357421875
+              },
+              "confidence": null,
+              "text": "liability."
+            },
+            {
+              "bbox": {
+                "height": 18.1920166015625,
+                "left": 433.56732177734375,
+                "top": 28.652923583984375,
+                "width": 13.6319580078125
+              },
+              "confidence": null,
+              "text": "A"
+            },
+            {
+              "bbox": {
+                "height": 13.0799560546875,
+                "left": 463.9080810546875,
+                "top": 33.764984130859375,
+                "width": 111.6407470703125
+              },
+              "confidence": null,
+              "text": "consumer"
+            },
+            {
+              "bbox": {
+                "height": 13.0799560546875,
+                "left": 592.4495849609375,
+                "top": 33.764984130859375,
+                "width": 41.98077392578125
+              },
+              "confidence": null,
+              "text": "may"
+            },
+            {
+              "bbox": {
+                "height": 13.6319580078125,
+                "left": 650.8751220703125,
+                "top": 33.380950927734375,
+                "width": 25.6343994140625
+              },
+              "confidence": null,
+              "text": "be"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 694.2503051757812,
+                "top": 33.380950927734375,
+                "width": 54.127197265625
+              },
+              "confidence": null,
+              "text": "held"
+            },
+            {
+              "bbox": {
+                "height": 3.4560546875,
+                "left": 765.854248046875,
+                "top": 43.388885498046875,
+                "width": 94.43011474609375
+              },
+              "confidence": null,
+              "text": "liable,"
+            },
+            {
+              "bbox": {
+                "height": 13.0799560546875,
+                "left": 879.89697265625,
+                "top": 33.764984130859375,
+                "width": 84.49169921875
+              },
+              "confidence": null,
+              "text": "within"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 981.6014404296875,
+                "top": 33.380950927734375,
+                "width": 40.56463623046875
+              },
+              "confidence": null,
+              "text": "the"
+            },
+            {
+              "bbox": {
+                "height": 13.27197265625,
+                "left": 1039.4986572265625,
+                "top": 33.572967529296875,
+                "width": 110.7044677734375
+              },
+              "confidence": null,
+              "text": "limitati"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 2.119182586669922,
+                "top": 57.380950927734375,
+                "width": 40.39680480957031
+              },
+              "confidence": null,
+              "text": "ons"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 60.06477737426758,
+                "top": 57.380950927734375,
+                "width": 126.61921691894531
+              },
+              "confidence": null,
+              "text": "described"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 204.5927734375,
+                "top": 57.380950927734375,
+                "width": 25.274429321289062
+              },
+              "confidence": null,
+              "text": "in"
+            },
+            {
+              "bbox": {
+                "height": 13.27197265625,
+                "left": 247.60804748535156,
+                "top": 57.572967529296875,
+                "width": 126.28329467773438
+              },
+              "confidence": null,
+              "text": "paragraph"
+            },
+            {
+              "bbox": {
+                "height": 19.0799560546875,
+                "left": 392.1841125488281,
+                "top": 51.932952880859375,
+                "width": 38.788787841796875
+              },
+              "confidence": null,
+              "text": "(b)"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 448.59368896484375,
+                "top": 57.380950927734375,
+                "width": 26.9783935546875
+              },
+              "confidence": null,
+              "text": "of"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 491.9208984375,
+                "top": 57.380950927734375,
+                "width": 54.67913818359375
+              },
+              "confidence": null,
+              "text": "this"
+            },
+            {
+              "bbox": {
+                "height": 3.4560546875,
+                "left": 564.7728271484375,
+                "top": 67.38888549804688,
+                "width": 108.28070068359375
+              },
+              "confidence": null,
+              "text": "section,"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 694.3943481445312,
+                "top": 57.380950927734375,
+                "width": 39.58074951171875
+              },
+              "confidence": null,
+              "text": "for"
+            },
+            {
+              "bbox": {
+                "height": 13.27197265625,
+                "left": 751.23583984375,
+                "top": 57.572967529296875,
+                "width": 25.92236328125
+              },
+              "confidence": null,
+              "text": "an"
+            },
+            {
+              "bbox": {
+                "height": 13.0799560546875,
+                "left": 794.9229736328125,
+                "top": 57.764984130859375,
+                "width": 169.48974609375
+              },
+              "confidence": null,
+              "text": "unauthorized"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 981.9854125976562,
+                "top": 57.380950927734375,
+                "width": 140.948974609375
+              },
+              "confidence": null,
+              "text": "electronic"
+            },
+            {
+              "bbox": {
+                "height": 19.27197265625,
+                "left": 1140.8670654296875,
+                "top": 51.572967529296875,
+                "width": 11.6160888671875
+              },
+              "confidence": null,
+              "text": "f"
+            },
+            {
+              "bbox": {
+                "height": 13.0799560546875,
+                "left": 2.7911834716796875,
+                "top": 81.76498413085938,
+                "width": 39.86880111694336
+              },
+              "confidence": null,
+              "text": "und"
+            },
+            {
+              "bbox": {
+                "height": 13.27197265625,
+                "left": 59.84877395629883,
+                "top": 81.57296752929688,
+                "width": 112.43281555175781
+              },
+              "confidence": null,
+              "text": "transfer"
+            },
+            {
+              "bbox": {
+                "height": 13.0799560546875,
+                "left": 190.19039916992188,
+                "top": 81.76498413085938,
+                "width": 126.11531066894531
+              },
+              "confidence": null,
+              "text": "involving"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 333.4945373535156,
+                "top": 81.38095092773438,
+                "width": 40.5648193359375
+              },
+              "confidence": null,
+              "text": "the"
+            },
+            {
+              "bbox": {
+                "height": 1.43994140625,
+                "left": 391.8961181640625,
+                "top": 81.76498413085938,
+                "width": 140.301513671875
+              },
+              "confidence": null,
+              "text": "consumer's"
+            },
+            {
+              "bbox": {
+                "height": 13.0799560546875,
+                "left": 549.6024169921875,
+                "top": 81.76498413085938,
+                "width": 97.9822998046875
+              },
+              "confidence": null,
+              "text": "account"
+            },
+            {
+              "bbox": {
+                "height": 13.0799560546875,
+                "left": 664.6295166015625,
+                "top": 81.76498413085938,
+                "width": 56.2152099609375
+              },
+              "confidence": null,
+              "text": "only"
+            },
+            {
+              "bbox": {
+                "height": 19.27197265625,
+                "left": 737.4814453125,
+                "top": 75.57296752929688,
+                "width": 26.138427734375
+              },
+              "confidence": null,
+              "text": "if"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 779.9686279296875,
+                "top": 81.38095092773438,
+                "width": 40.56463623046875
+              },
+              "confidence": null,
+              "text": "the"
+            },
+            {
+              "bbox": {
+                "height": 13.27197265625,
+                "left": 838.41796875,
+                "top": 81.57296752929688,
+                "width": 124.8427734375
+              },
+              "confidence": null,
+              "text": "financial"
+            },
+            {
+              "bbox": {
+                "height": 13.0799560546875,
+                "left": 982.3214111328125,
+                "top": 81.76498413085938,
+                "width": 154.89532470703125
+              },
+              "confidence": null,
+              "text": "institution"
+            },
+            {
+              "bbox": {
+                "height": 13.27197265625,
+                "left": 2.9351844787597656,
+                "top": 105.57296752929688,
+                "width": 39.58080291748047
+              },
+              "confidence": null,
+              "text": "has"
+            },
+            {
+              "bbox": {
+                "height": 13.0799560546875,
+                "left": 60.37678146362305,
+                "top": 105.76498413085938,
+                "width": 111.9048080444336
+              },
+              "confidence": null,
+              "text": "provided"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 189.4703826904297,
+                "top": 105.38095092773438,
+                "width": 40.5648193359375
+              },
+              "confidence": null,
+              "text": "the"
+            },
+            {
+              "bbox": {
+                "height": 13.0799560546875,
+                "left": 247.29603576660156,
+                "top": 105.76498413085938,
+                "width": 155.28005981445312
+              },
+              "confidence": null,
+              "text": "disclosures"
+            },
+            {
+              "bbox": {
+                "height": 13.0799560546875,
+                "left": 421.70892333984375,
+                "top": 105.76498413085938,
+                "width": 110.63275146484375
+              },
+              "confidence": null,
+              "text": "required"
+            },
+            {
+              "bbox": {
+                "height": 13.2479248046875,
+                "left": 550.0584106445312,
+                "top": 105.76498413085938,
+                "width": 26.76239013671875
+              },
+              "confidence": null,
+              "text": "by"
+            },
+            {
+              "bbox": {
+                "height": 3.60009765625,
+                "left": 593.4575805664062,
+                "top": 115.58090209960938,
+                "width": 50.45513916015625
+              },
+              "confidence": null,
+              "text": "Sec."
+            },
+            {
+              "bbox": {
+                "height": 3.2640380859375,
+                "left": 665.82958984375,
+                "top": 115.58090209960938,
+                "width": 180.05242919921875
+              },
+              "confidence": null,
+              "text": "1005.7(b)(1),"
+            },
+            {
+              "bbox": {
+                "height": 3.4560546875,
+                "left": 867.462646484375,
+                "top": 115.38888549804688,
+                "width": 50.43109130859375
+              },
+              "confidence": null,
+              "text": "(2),"
+            },
+            {
+              "bbox": {
+                "height": 13.27197265625,
+                "left": 938.4663696289062,
+                "top": 105.57296752929688,
+                "width": 40.34869384765625
+              },
+              "confidence": null,
+              "text": "and"
+            },
+            {
+              "bbox": {
+                "height": 3.7919921875,
+                "left": 997.0836791992188,
+                "top": 115.58090209960938,
+                "width": 50.0950927734375
+              },
+              "confidence": null,
+              "text": "(3)."
+            },
+            {
+              "bbox": {
+                "height": 18.1920166015625,
+                "left": 1068.9033203125,
+                "top": 100.65292358398438,
+                "width": 25.970458984375
+              },
+              "confidence": null,
+              "text": "If"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 1111.222412109375,
+                "top": 105.38095092773438,
+                "width": 40.564697265625
+              },
+              "confidence": null,
+              "text": "the"
+            },
+            {
+              "bbox": {
+                "height": 13.0799560546875,
+                "left": 17.193584442138672,
+                "top": 129.76498413085938,
+                "width": 169.49041748046875
+              },
+              "confidence": null,
+              "text": "unauthorized"
+            },
+            {
+              "bbox": {
+                "height": 13.27197265625,
+                "left": 203.87278747558594,
+                "top": 129.57296752929688,
+                "width": 112.43292236328125
+              },
+              "confidence": null,
+              "text": "transfer"
+            },
+            {
+              "bbox": {
+                "height": 13.0799560546875,
+                "left": 334.21453857421875,
+                "top": 129.76498413085938,
+                "width": 111.7127685546875
+              },
+              "confidence": null,
+              "text": "involved"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 463.1160888671875,
+                "top": 129.38095092773438,
+                "width": 40.56475830078125
+              },
+              "confidence": null,
+              "text": "the"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 521.013671875,
+                "top": 129.38095092773438,
+                "width": 54.39111328125
+              },
+              "confidence": null,
+              "text": "loss"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 592.6175537109375,
+                "top": 129.38095092773438,
+                "width": 26.138427734375
+              },
+              "confidence": null,
+              "text": "or"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 635.9447631835938,
+                "top": 129.38095092773438,
+                "width": 69.24957275390625
+              },
+              "confidence": null,
+              "text": "theft"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 722.2390747070312,
+                "top": 129.38095092773438,
+                "width": 26.9783935546875
+              },
+              "confidence": null,
+              "text": "of"
+            },
+            {
+              "bbox": {
+                "height": 13.27197265625,
+                "left": 765.6382446289062,
+                "top": 129.57296752929688,
+                "width": 25.92230224609375
+              },
+              "confidence": null,
+              "text": "an"
+            },
+            {
+              "bbox": {
+                "height": 13.6080322265625,
+                "left": 808.8452758789062,
+                "top": 129.57296752929688,
+                "width": 83.41180419921875
+              },
+              "confidence": null,
+              "text": "access"
+            },
+            {
+              "bbox": {
+                "height": 3.4560546875,
+                "left": 909.8056640625,
+                "top": 139.38888549804688,
+                "width": 94.50213623046875
+              },
+              "confidence": null,
+              "text": "device,"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 1024.808349609375,
+                "top": 129.38095092773438,
+                "width": 40.564697265625
+              },
+              "confidence": null,
+              "text": "the"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 1083.1376953125,
+                "top": 129.38095092773438,
+                "width": 67.0654296875
+              },
+              "confidence": null,
+              "text": "insti"
+            },
+            {
+              "bbox": {
+                "height": 13.0799560546875,
+                "left": 2.2391815185546875,
+                "top": 153.76498413085938,
+                "width": 83.60398864746094
+              },
+              "confidence": null,
+              "text": "tution"
+            },
+            {
+              "bbox": {
+                "height": 13.0799560546875,
+                "left": 102.76797485351562,
+                "top": 153.76498413085938,
+                "width": 41.980804443359375
+              },
+              "confidence": null,
+              "text": "may"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 161.38558959960938,
+                "top": 153.38095092773438,
+                "width": 83.05201721191406
+              },
+              "confidence": null,
+              "text": "impose"
+            },
+            {
+              "bbox": {
+                "height": 13.0799560546875,
+                "left": 261.7704772949219,
+                "top": 153.76498413085938,
+                "width": 127.81930541992188
+              },
+              "confidence": null,
+              "text": "liability"
+            },
+            {
+              "bbox": {
+                "height": 13.0799560546875,
+                "left": 405.38653564453125,
+                "top": 153.76498413085938,
+                "width": 56.21514892578125
+              },
+              "confidence": null,
+              "text": "only"
+            },
+            {
+              "bbox": {
+                "height": 19.27197265625,
+                "left": 478.23846435546875,
+                "top": 147.57296752929688,
+                "width": 26.13836669921875
+              },
+              "confidence": null,
+              "text": "if"
+            },
+            {
+              "bbox": {
+                "height": 17.280029296875,
+                "left": 521.4456176757812,
+                "top": 149.56491088867188,
+                "width": 25.3223876953125
+              },
+              "confidence": null,
+              "text": "it"
+            },
+            {
+              "bbox": {
+                "height": 13.0799560546875,
+                "left": 564.4608154296875,
+                "top": 153.76498413085938,
+                "width": 111.90472412109375
+              },
+              "confidence": null,
+              "text": "provided"
+            },
+            {
+              "bbox": {
+                "height": 13.6080322265625,
+                "left": 693.6262817382812,
+                "top": 153.57296752929688,
+                "width": 11.90399169921875
+              },
+              "confidence": null,
+              "text": "a"
+            },
+            {
+              "bbox": {
+                "height": 13.27197265625,
+                "left": 722.0711059570312,
+                "top": 153.57296752929688,
+                "width": 69.36956787109375
+              },
+              "confidence": null,
+              "text": "means"
+            },
+            {
+              "bbox": {
+                "height": 13.800048828125,
+                "left": 808.7733154296875,
+                "top": 153.38095092773438,
+                "width": 26.666259765625
+              },
+              "confidence": null,
+              "text": "to"
+            },
+            {
+              "bbox": {
+                "height": 13.0799560546875,
+                "left": 852.7003173828125,
+                "top": 153.76498413085938,
+                "width": 112.984375
+              },
+              "confidence": null,
+              "text": "identify"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 981.6014404296875,
+                "top": 153.38095092773438,
+                "width": 40.56463623046875
+              },
+              "confidence": null,
+              "text": "the"
+            },
+            {
+              "bbox": {
+                "height": 13.0799560546875,
+                "left": 1040.002685546875,
+                "top": 153.76498413085938,
+                "width": 111.640380859375
+              },
+              "confidence": null,
+              "text": "consumer"
+            },
+            {
+              "bbox": {
+                "height": 3.7919921875,
+                "left": 6.391181945800781,
+                "top": 187.58090209960938,
+                "width": 3.8160018920898438
+              },
+              "confidence": null,
+              "text": "."
+            }
+          ],
+          "page_height": 1584,
+          "page_number": 1,
+          "page_width": 1224,
+          "references": null,
+          "segment_id": "bc854012-f93d-4b2d-ba26-d1a054fd8b89",
+          "segment_type": "Text"
+        },
+        {
+          "bbox": {
+            "height": 152.26266479492188,
+            "left": 33.39535140991211,
+            "top": 298.3114929199219,
+            "width": 1161.7718505859375
+          },
+          "confidence": 0.9878162145614624,
+          "content": "(b) Limitations on amount of The amount of a consumer's liability for\nliability.\nan unauthorized electronic fund transfer is determined as follows: Timely notic\ne within two business days limits liability to fifty Failure to notify\ndollars.\nwithin two business days raises liability to five hundred Failure to re\ndollars.\nport within sixty days of the periodic statement may result in unlimited liabili\nty for transfers occurring after the sixty-day\nperiod.",
+          "html": "(b) Limitations on amount of The amount of a consumer's liability for<br />\nliability.<br />\nan unauthorized electronic fund transfer is determined as follows: Timely notic<br />\ne within two business days limits liability to fifty Failure to notify<br />\ndollars.<br />\nwithin two business days raises liability to five hundred Failure to re<br />\ndollars.<br />\nport within sixty days of the periodic statement may result in unlimited liabili<br />\nty for transfers occurring after the sixty-day<br />\nperiod.",
+          "image": null,
+          "markdown": "(b) Limitations on amount of The amount of a consumer's liability for\nliability.\nan unauthorized electronic fund transfer is determined as follows: Timely notic\ne within two business days limits liability to fifty Failure to notify\ndollars.\nwithin two business days raises liability to five hundred Failure to re\ndollars.\nport within sixty days of the periodic statement may result in unlimited liabili\nty for transfers occurring after the sixty-day\nperiod.",
+          "ocr": [
+            {
+              "bbox": {
+                "height": 19.0799560546875,
+                "left": 2.0126495361328125,
+                "top": 4.208526611328125,
+                "width": 38.7888069152832
+              },
+              "confidence": null,
+              "text": "(b)"
+            },
+            {
+              "bbox": {
+                "height": 13.27197265625,
+                "left": 59.98225021362305,
+                "top": 9.848541259765625,
+                "width": 154.05599975585938
+              },
+              "confidence": null,
+              "text": "Limitations"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 231.2510986328125,
+                "top": 9.656524658203125,
+                "width": 26.114410400390625
+              },
+              "confidence": null,
+              "text": "on"
+            },
+            {
+              "bbox": {
+                "height": 13.0799560546875,
+                "left": 274.65032958984375,
+                "top": 10.040557861328125,
+                "width": 83.58004760742188
+              },
+              "confidence": null,
+              "text": "amount"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 375.27520751953125,
+                "top": 9.656524658203125,
+                "width": 26.978363037109375
+              },
+              "confidence": null,
+              "text": "of"
+            },
+            {
+              "bbox": {
+                "height": 3.2640380859375,
+                "left": 418.8903503417969,
+                "top": 19.856475830078125,
+                "width": 137.301513671875
+              },
+              "confidence": null,
+              "text": "liability."
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 576.4526977539062,
+                "top": 9.656524658203125,
+                "width": 41.14080810546875
+              },
+              "confidence": null,
+              "text": "The"
+            },
+            {
+              "bbox": {
+                "height": 13.0799560546875,
+                "left": 634.710205078125,
+                "top": 10.040557861328125,
+                "width": 83.5799560546875
+              },
+              "confidence": null,
+              "text": "amount"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 735.3349609375,
+                "top": 9.656524658203125,
+                "width": 26.9783935546875
+              },
+              "confidence": null,
+              "text": "of"
+            },
+            {
+              "bbox": {
+                "height": 13.6080322265625,
+                "left": 778.7340698242188,
+                "top": 9.848541259765625,
+                "width": 11.904052734375
+              },
+              "confidence": null,
+              "text": "a"
+            },
+            {
+              "bbox": {
+                "height": 1.43994140625,
+                "left": 808.2587890625,
+                "top": 10.040557861328125,
+                "width": 140.3011474609375
+              },
+              "confidence": null,
+              "text": "consumer's"
+            },
+            {
+              "bbox": {
+                "height": 13.0799560546875,
+                "left": 966.1805419921875,
+                "top": 10.040557861328125,
+                "width": 127.81866455078125
+              },
+              "confidence": null,
+              "text": "liability"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 1110.755859375,
+                "top": 9.656524658203125,
+                "width": 39.5806884765625
+              },
+              "confidence": null,
+              "text": "for"
+            },
+            {
+              "bbox": {
+                "height": 13.27197265625,
+                "left": 15.407051086425781,
+                "top": 33.848541259765625,
+                "width": 25.922405242919922
+              },
+              "confidence": null,
+              "text": "an"
+            },
+            {
+              "bbox": {
+                "height": 13.0799560546875,
+                "left": 59.094242095947266,
+                "top": 34.040557861328125,
+                "width": 169.49044799804688
+              },
+              "confidence": null,
+              "text": "unauthorized"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 246.15750122070312,
+                "top": 33.656524658203125,
+                "width": 140.94973754882812
+              },
+              "confidence": null,
+              "text": "electronic"
+            },
+            {
+              "bbox": {
+                "height": 13.0799560546875,
+                "left": 405.0400085449219,
+                "top": 34.040557861328125,
+                "width": 53.983154296875
+              },
+              "confidence": null,
+              "text": "fund"
+            },
+            {
+              "bbox": {
+                "height": 13.27197265625,
+                "left": 476.2119445800781,
+                "top": 33.848541259765625,
+                "width": 112.43267822265625
+              },
+              "confidence": null,
+              "text": "transfer"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 606.553466796875,
+                "top": 33.656524658203125,
+                "width": 25.15435791015625
+              },
+              "confidence": null,
+              "text": "is"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 649.256591796875,
+                "top": 33.656524658203125,
+                "width": 141.021484375
+              },
+              "confidence": null,
+              "text": "determined"
+            },
+            {
+              "bbox": {
+                "height": 13.6080322265625,
+                "left": 807.5387573242188,
+                "top": 33.848541259765625,
+                "width": 25.80242919921875
+              },
+              "confidence": null,
+              "text": "as"
+            },
+            {
+              "bbox": {
+                "height": 13.0799560546875,
+                "left": 851.5137939453125,
+                "top": 34.040557861328125,
+                "width": 107.9444580078125
+              },
+              "confidence": null,
+              "text": "follows:"
+            },
+            {
+              "bbox": {
+                "height": 13.0799560546875,
+                "left": 979.7188720703125,
+                "top": 34.040557861328125,
+                "width": 85.47564697265625
+              },
+              "confidence": null,
+              "text": "Timely"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 1081.8072509765625,
+                "top": 33.656524658203125,
+                "width": 68.625244140625
+              },
+              "confidence": null,
+              "text": "notic"
+            },
+            {
+              "bbox": {
+                "height": 13.823974609375,
+                "left": 1.316650390625,
+                "top": 57.656524658203125,
+                "width": 11.375999450683594
+              },
+              "confidence": null,
+              "text": "e"
+            },
+            {
+              "bbox": {
+                "height": 13.0799560546875,
+                "left": 28.84945297241211,
+                "top": 58.040557861328125,
+                "width": 84.49201202392578
+              },
+              "confidence": null,
+              "text": "within"
+            },
+            {
+              "bbox": {
+                "height": 13.0799560546875,
+                "left": 130.5542449951172,
+                "top": 58.040557861328125,
+                "width": 41.068817138671875
+              },
+              "confidence": null,
+              "text": "two"
+            },
+            {
+              "bbox": {
+                "height": 13.0799560546875,
+                "left": 188.6918487548828,
+                "top": 58.040557861328125,
+                "width": 111.76087951660156
+              },
+              "confidence": null,
+              "text": "business"
+            },
+            {
+              "bbox": {
+                "height": 13.416015625,
+                "left": 318.0015563964844,
+                "top": 58.040557861328125,
+                "width": 54.4632568359375
+              },
+              "confidence": null,
+              "text": "days"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 390.0856018066406,
+                "top": 57.656524658203125,
+                "width": 83.1959228515625
+              },
+              "confidence": null,
+              "text": "limits"
+            },
+            {
+              "bbox": {
+                "height": 13.0799560546875,
+                "left": 490.9023132324219,
+                "top": 58.040557861328125,
+                "width": 127.819091796875
+              },
+              "confidence": null,
+              "text": "liability"
+            },
+            {
+              "bbox": {
+                "height": 13.800048828125,
+                "left": 634.6382446289062,
+                "top": 57.656524658203125,
+                "width": 26.6663818359375
+              },
+              "confidence": null,
+              "text": "to"
+            },
+            {
+              "bbox": {
+                "height": 13.0799560546875,
+                "left": 678.6854248046875,
+                "top": 58.040557861328125,
+                "width": 69.65753173828125
+              },
+              "confidence": null,
+              "text": "fifty"
+            },
+            {
+              "bbox": {
+                "height": 3.2640380859375,
+                "left": 764.4757080078125,
+                "top": 67.85647583007812,
+                "width": 108.5684814453125
+              },
+              "confidence": null,
+              "text": "dollars."
+            },
+            {
+              "bbox": {
+                "height": 13.0799560546875,
+                "left": 895.4168701171875,
+                "top": 58.040557861328125,
+                "width": 96.63800048828125
+              },
+              "confidence": null,
+              "text": "Failure"
+            },
+            {
+              "bbox": {
+                "height": 13.800048828125,
+                "left": 1009.0995483398438,
+                "top": 57.656524658203125,
+                "width": 26.666259765625
+              },
+              "confidence": null,
+              "text": "to"
+            },
+            {
+              "bbox": {
+                "height": 13.0799560546875,
+                "left": 1053.0025634765625,
+                "top": 58.040557861328125,
+                "width": 84.20361328125
+              },
+              "confidence": null,
+              "text": "notify"
+            },
+            {
+              "bbox": {
+                "height": 13.0799560546875,
+                "left": 0.044651031494140625,
+                "top": 82.04055786132812,
+                "width": 84.49198913574219
+              },
+              "confidence": null,
+              "text": "within"
+            },
+            {
+              "bbox": {
+                "height": 13.0799560546875,
+                "left": 101.74945068359375,
+                "top": 82.04055786132812,
+                "width": 41.06880187988281
+              },
+              "confidence": null,
+              "text": "two"
+            },
+            {
+              "bbox": {
+                "height": 13.0799560546875,
+                "left": 159.8870391845703,
+                "top": 82.04055786132812,
+                "width": 111.76087951660156
+              },
+              "confidence": null,
+              "text": "business"
+            },
+            {
+              "bbox": {
+                "height": 13.416015625,
+                "left": 289.1967468261719,
+                "top": 82.04055786132812,
+                "width": 54.463226318359375
+              },
+              "confidence": null,
+              "text": "days"
+            },
+            {
+              "bbox": {
+                "height": 13.27197265625,
+                "left": 362.7928161621094,
+                "top": 81.84854125976562,
+                "width": 81.68392944335938
+              },
+              "confidence": null,
+              "text": "raises"
+            },
+            {
+              "bbox": {
+                "height": 13.0799560546875,
+                "left": 462.0975341796875,
+                "top": 82.04055786132812,
+                "width": 127.81912231445312
+              },
+              "confidence": null,
+              "text": "liability"
+            },
+            {
+              "bbox": {
+                "height": 13.800048828125,
+                "left": 605.83349609375,
+                "top": 81.65652465820312,
+                "width": 26.6663818359375
+              },
+              "confidence": null,
+              "text": "to"
+            },
+            {
+              "bbox": {
+                "height": 13.0799560546875,
+                "left": 649.880615234375,
+                "top": 82.04055786132812,
+                "width": 54.127197265625
+              },
+              "confidence": null,
+              "text": "five"
+            },
+            {
+              "bbox": {
+                "height": 13.0799560546875,
+                "left": 721.7485961914062,
+                "top": 82.04055786132812,
+                "width": 97.33416748046875
+              },
+              "confidence": null,
+              "text": "hundred"
+            },
+            {
+              "bbox": {
+                "height": 3.2640380859375,
+                "left": 836.4874267578125,
+                "top": 91.85647583007812,
+                "width": 108.5684814453125
+              },
+              "confidence": null,
+              "text": "dollars."
+            },
+            {
+              "bbox": {
+                "height": 13.0799560546875,
+                "left": 967.4285888671875,
+                "top": 82.04055786132812,
+                "width": 96.63800048828125
+              },
+              "confidence": null,
+              "text": "Failure"
+            },
+            {
+              "bbox": {
+                "height": 13.800048828125,
+                "left": 1081.1112060546875,
+                "top": 81.65652465820312,
+                "width": 26.666259765625
+              },
+              "confidence": null,
+              "text": "to"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 1126.1182861328125,
+                "top": 81.65652465820312,
+                "width": 24.3623046875
+              },
+              "confidence": null,
+              "text": "re"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 1.4606513977050781,
+                "top": 105.65652465820312,
+                "width": 54.31919860839844
+              },
+              "confidence": null,
+              "text": "port"
+            },
+            {
+              "bbox": {
+                "height": 13.0799560546875,
+                "left": 72.056640625,
+                "top": 106.04055786132812,
+                "width": 84.49201965332031
+              },
+              "confidence": null,
+              "text": "within"
+            },
+            {
+              "bbox": {
+                "height": 13.0799560546875,
+                "left": 174.60145568847656,
+                "top": 106.04055786132812,
+                "width": 69.65763854980469
+              },
+              "confidence": null,
+              "text": "sixty"
+            },
+            {
+              "bbox": {
+                "height": 13.416015625,
+                "left": 260.39190673828125,
+                "top": 106.04055786132812,
+                "width": 54.463226318359375
+              },
+              "confidence": null,
+              "text": "days"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 332.0679626464844,
+                "top": 105.65652465820312,
+                "width": 26.978424072265625
+              },
+              "confidence": null,
+              "text": "of"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 375.3952331542969,
+                "top": 105.65652465820312,
+                "width": 40.56475830078125
+              },
+              "confidence": null,
+              "text": "the"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 433.5327453613281,
+                "top": 105.65652465820312,
+                "width": 112.000732421875
+              },
+              "confidence": null,
+              "text": "periodic"
+            },
+            {
+              "bbox": {
+                "height": 13.27197265625,
+                "left": 563.46630859375,
+                "top": 105.84854125976562,
+                "width": 126.01910400390625
+              },
+              "confidence": null,
+              "text": "statement"
+            },
+            {
+              "bbox": {
+                "height": 13.0799560546875,
+                "left": 706.3621826171875,
+                "top": 106.04055786132812,
+                "width": 41.98077392578125
+              },
+              "confidence": null,
+              "text": "may"
+            },
+            {
+              "bbox": {
+                "height": 13.0799560546875,
+                "left": 766.0597534179688,
+                "top": 106.04055786132812,
+                "width": 81.85174560546875
+              },
+              "confidence": null,
+              "text": "result"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 865.796142578125,
+                "top": 105.65652465820312,
+                "width": 25.2742919921875
+              },
+              "confidence": null,
+              "text": "in"
+            },
+            {
+              "bbox": {
+                "height": 13.0799560546875,
+                "left": 908.835205078125,
+                "top": 106.04055786132812,
+                "width": 126.28265380859375
+              },
+              "confidence": null,
+              "text": "unlimited"
+            },
+            {
+              "bbox": {
+                "height": 13.27197265625,
+                "left": 1052.594482421875,
+                "top": 105.84854125976562,
+                "width": 96.3021240234375
+              },
+              "confidence": null,
+              "text": "liabili"
+            },
+            {
+              "bbox": {
+                "height": 13.416015625,
+                "left": 0.932647705078125,
+                "top": 130.04055786132812,
+                "width": 27.2904052734375
+              },
+              "confidence": null,
+              "text": "ty"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 44.9798469543457,
+                "top": 129.65652465820312,
+                "width": 39.58079528808594
+              },
+              "confidence": null,
+              "text": "for"
+            },
+            {
+              "bbox": {
+                "height": 13.27197265625,
+                "left": 101.74945068359375,
+                "top": 129.84854125976562,
+                "width": 126.69122314453125
+              },
+              "confidence": null,
+              "text": "transfers"
+            },
+            {
+              "bbox": {
+                "height": 13.0799560546875,
+                "left": 245.65350341796875,
+                "top": 130.04055786132812,
+                "width": 126.95529174804688
+              },
+              "confidence": null,
+              "text": "occurring"
+            },
+            {
+              "bbox": {
+                "height": 13.27197265625,
+                "left": 389.86956787109375,
+                "top": 129.84854125976562,
+                "width": 69.15359497070312
+              },
+              "confidence": null,
+              "text": "after"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 476.2119445800781,
+                "top": 129.65652465820312,
+                "width": 40.56475830078125
+              },
+              "confidence": null,
+              "text": "the"
+            },
+            {
+              "bbox": {
+                "height": 1.823974609375,
+                "left": 534.6614990234375,
+                "top": 134.84048461914062,
+                "width": 127.26708984375
+              },
+              "confidence": null,
+              "text": "sixty-day"
+            },
+            {
+              "bbox": {
+                "height": 3.2640380859375,
+                "left": 678.3734130859375,
+                "top": 139.85647583007812,
+                "width": 93.8543701171875
+              },
+              "confidence": null,
+              "text": "period."
+            }
+          ],
+          "page_height": 1584,
+          "page_number": 1,
+          "page_width": 1224,
+          "references": null,
+          "segment_id": "97b7c424-f552-4b09-b811-814841df76cd",
+          "segment_type": "Text"
+        },
+        {
+          "bbox": {
+            "height": 27.83856201171875,
+            "left": 35.89469528198242,
+            "top": 467.9659118652344,
+            "width": 388.3104553222656
+          },
+          "confidence": 0.6458461284637451,
+          "content": "ERROR RESOLUTION PROCEDURES",
+          "html": "ERROR RESOLUTION PROCEDURES",
+          "image": null,
+          "markdown": "ERROR RESOLUTION PROCEDURES",
+          "ocr": [
+            {
+              "bbox": {
+                "height": 18.1920166015625,
+                "left": -0.318695068359375,
+                "top": 3.274078369140625,
+                "width": 69.34559631347656
+              },
+              "confidence": null,
+              "text": "ERROR"
+            },
+            {
+              "bbox": {
+                "height": 18.1920166015625,
+                "left": 85.47169494628906,
+                "top": 3.274078369140625,
+                "width": 140.80563354492188
+              },
+              "confidence": null,
+              "text": "RESOLUTION"
+            },
+            {
+              "bbox": {
+                "height": 18.1920166015625,
+                "left": 244.2101593017578,
+                "top": 3.274078369140625,
+                "width": 140.49371337890625
+              },
+              "confidence": null,
+              "text": "PROCEDURES"
+            }
+          ],
+          "page_height": 1584,
+          "page_number": 1,
+          "page_width": 1224,
+          "references": null,
+          "segment_id": "169488fb-f368-4de2-8742-fcc2ed64a9ff",
+          "segment_type": "Text"
+        },
+        {
+          "bbox": {
+            "height": 292.5616455078125,
+            "left": 30.72854232788086,
+            "top": 514.1412353515625,
+            "width": 1167.1068115234375
+          },
+          "confidence": 0.8481699824333191,
+          "content": "Section Procedures for resolving\n1005.11 errors.\n(a) Definition of An error includes an unauthorized electronic fund trans\nerror.\nan incorrect transfer to or from the and a consumer's request for\nfer, account,\ndocumentation or\nclarification.\n(b) Notice of error from A financial institution shall comply with the\nconsumer.\nrequirements of this section with respect to any oral or written notice of erro\nr received within sixty days after it sends a periodic\nstatement.\n(c) Time limits and extent of A financial institution shall inves\ninvestigation.\ntigate promptly and determine whether an error occurred within ten business days\nof receiving a notice of The institution may take up to forty-five days\nerror.\nif it provisionally credits the consumer's account for the amount of the alleged\nerror within ten business\ndays.",
+          "html": "Section Procedures for resolving<br />\n1005.11 errors.<br />\n(a) Definition of An error includes an unauthorized electronic fund trans<br />\nerror.<br />\nan incorrect transfer to or from the and a consumer's request for<br />\nfer, account,<br />\ndocumentation or<br />\nclarification.<br />\n(b) Notice of error from A financial institution shall comply with the<br />\nconsumer.<br />\nrequirements of this section with respect to any oral or written notice of erro<br />\nr received within sixty days after it sends a periodic<br />\nstatement.<br />\n(c) Time limits and extent of A financial institution shall inves<br />\ninvestigation.<br />\ntigate promptly and determine whether an error occurred within ten business days<br />\nof receiving a notice of The institution may take up to forty-five days<br />\nerror.<br />\nif it provisionally credits the consumer's account for the amount of the alleged<br />\nerror within ten business<br />\ndays.",
+          "image": null,
+          "markdown": "Section Procedures for resolving\n1005.11 errors.\n(a) Definition of An error includes an unauthorized electronic fund trans\nerror.\nan incorrect transfer to or from the and a consumer's request for\nfer, account,\ndocumentation or\nclarification.\n(b) Notice of error from A financial institution shall comply with the\nconsumer.\nrequirements of this section with respect to any oral or written notice of erro\nr received within sixty days after it sends a periodic\nstatement.\n(c) Time limits and extent of A financial institution shall inves\ninvestigation.\ntigate promptly and determine whether an error occurred within ten business days\nof receiving a notice of The institution may take up to forty-five days\nerror.\nif it provisionally credits the consumer's account for the amount of the alleged\nerror within ten business\ndays.",
+          "ocr": [
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 4.3194580078125,
+                "top": 9.8267822265625,
+                "width": 97.28639221191406
+              },
+              "confidence": null,
+              "text": "Section"
+            },
+            {
+              "bbox": {
+                "height": 3.2640380859375,
+                "left": 119.89866638183594,
+                "top": 20.0267333984375,
+                "width": 97.40640258789062
+              },
+              "confidence": null,
+              "text": "1005.11"
+            },
+            {
+              "bbox": {
+                "height": 13.0799560546875,
+                "left": 234.97390747070312,
+                "top": 10.2108154296875,
+                "width": 140.15771484375
+              },
+              "confidence": null,
+              "text": "Procedures"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 393.3044128417969,
+                "top": 9.8267822265625,
+                "width": 39.58074951171875
+              },
+              "confidence": null,
+              "text": "for"
+            },
+            {
+              "bbox": {
+                "height": 13.0799560546875,
+                "left": 451.8739318847656,
+                "top": 10.2108154296875,
+                "width": 125.03515625
+              },
+              "confidence": null,
+              "text": "resolving"
+            },
+            {
+              "bbox": {
+                "height": 3.2640380859375,
+                "left": 594.4818725585938,
+                "top": 20.0267333984375,
+                "width": 93.99835205078125
+              },
+              "confidence": null,
+              "text": "errors."
+            },
+            {
+              "bbox": {
+                "height": 13.60797119140625,
+                "left": 4.6794586181640625,
+                "top": 34.018798828125,
+                "width": 38.7888069152832
+              },
+              "confidence": null,
+              "text": "(a)"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 61.90505599975586,
+                "top": 33.8267822265625,
+                "width": 140.51760864257812
+              },
+              "confidence": null,
+              "text": "Definition"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 219.51547241210938,
+                "top": 33.8267822265625,
+                "width": 26.978424072265625
+              },
+              "confidence": null,
+              "text": "of"
+            },
+            {
+              "bbox": {
+                "height": 3.2640380859375,
+                "left": 263.2267150878906,
+                "top": 44.0267333984375,
+                "width": 79.5960693359375
+              },
+              "confidence": null,
+              "text": "error."
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 362.9156188964844,
+                "top": 33.8267822265625,
+                "width": 26.7384033203125
+              },
+              "confidence": null,
+              "text": "An"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 407.2507629394531,
+                "top": 33.8267822265625,
+                "width": 68.84158325195312
+              },
+              "confidence": null,
+              "text": "error"
+            },
+            {
+              "bbox": {
+                "height": 13.0799560546875,
+                "left": 494.0011291503906,
+                "top": 34.2108154296875,
+                "width": 111.5687255859375
+              },
+              "confidence": null,
+              "text": "includes"
+            },
+            {
+              "bbox": {
+                "height": 13.27197265625,
+                "left": 622.9746704101562,
+                "top": 34.018798828125,
+                "width": 25.92236328125
+              },
+              "confidence": null,
+              "text": "an"
+            },
+            {
+              "bbox": {
+                "height": 13.0799560546875,
+                "left": 666.6618041992188,
+                "top": 34.2108154296875,
+                "width": 169.4901123046875
+              },
+              "confidence": null,
+              "text": "unauthorized"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 853.724609375,
+                "top": 33.8267822265625,
+                "width": 140.9490966796875
+              },
+              "confidence": null,
+              "text": "electronic"
+            },
+            {
+              "bbox": {
+                "height": 13.0799560546875,
+                "left": 1012.6063232421875,
+                "top": 34.2108154296875,
+                "width": 53.9830322265625
+              },
+              "confidence": null,
+              "text": "fund"
+            },
+            {
+              "bbox": {
+                "height": 13.27197265625,
+                "left": 1083.778076171875,
+                "top": 34.018798828125,
+                "width": 69.0814208984375
+              },
+              "confidence": null,
+              "text": "trans"
+            },
+            {
+              "bbox": {
+                "height": 3.45599365234375,
+                "left": 4.439456939697266,
+                "top": 67.83477783203125,
+                "width": 50.67120361328125
+              },
+              "confidence": null,
+              "text": "fer,"
+            },
+            {
+              "bbox": {
+                "height": 13.27197265625,
+                "left": 75.68345642089844,
+                "top": 58.018798828125,
+                "width": 25.922393798828125
+              },
+              "confidence": null,
+              "text": "an"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 119.53866577148438,
+                "top": 57.8267822265625,
+                "width": 126.13922119140625
+              },
+              "confidence": null,
+              "text": "incorrect"
+            },
+            {
+              "bbox": {
+                "height": 13.27197265625,
+                "left": 262.8427429199219,
+                "top": 58.018798828125,
+                "width": 112.432861328125
+              },
+              "confidence": null,
+              "text": "transfer"
+            },
+            {
+              "bbox": {
+                "height": 13.79998779296875,
+                "left": 392.46441650390625,
+                "top": 57.8267822265625,
+                "width": 26.6663818359375
+              },
+              "confidence": null,
+              "text": "to"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 435.5515441894531,
+                "top": 57.8267822265625,
+                "width": 26.138427734375
+              },
+              "confidence": null,
+              "text": "or"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 479.71875,
+                "top": 57.8267822265625,
+                "width": 54.799163818359375
+              },
+              "confidence": null,
+              "text": "from"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 550.8907470703125,
+                "top": 57.8267822265625,
+                "width": 40.56475830078125
+              },
+              "confidence": null,
+              "text": "the"
+            },
+            {
+              "bbox": {
+                "height": 3.45599365234375,
+                "left": 608.572265625,
+                "top": 67.83477783203125,
+                "width": 109.0487060546875
+              },
+              "confidence": null,
+              "text": "account,"
+            },
+            {
+              "bbox": {
+                "height": 13.27197265625,
+                "left": 738.1937866210938,
+                "top": 58.018798828125,
+                "width": 40.3487548828125
+              },
+              "confidence": null,
+              "text": "and"
+            },
+            {
+              "bbox": {
+                "height": 13.60797119140625,
+                "left": 795.80322265625,
+                "top": 58.018798828125,
+                "width": 11.904052734375
+              },
+              "confidence": null,
+              "text": "a"
+            },
+            {
+              "bbox": {
+                "height": 1.44000244140625,
+                "left": 825.3279418945312,
+                "top": 58.21075439453125,
+                "width": 140.3011474609375
+              },
+              "confidence": null,
+              "text": "consumer's"
+            },
+            {
+              "bbox": {
+                "height": 13.08001708984375,
+                "left": 984.7617797851562,
+                "top": 58.21075439453125,
+                "width": 96.25396728515625
+              },
+              "confidence": null,
+              "text": "request"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 1099.0203857421875,
+                "top": 57.8267822265625,
+                "width": 39.5806884765625
+              },
+              "confidence": null,
+              "text": "for"
+            },
+            {
+              "bbox": {
+                "height": 13.08001708984375,
+                "left": 3.815460205078125,
+                "top": 82.21075439453125,
+                "width": 184.20480346679688
+              },
+              "confidence": null,
+              "text": "documentation"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 205.11305236816406,
+                "top": 81.8267822265625,
+                "width": 26.138442993164062
+              },
+              "confidence": null,
+              "text": "or"
+            },
+            {
+              "bbox": {
+                "height": 3.26397705078125,
+                "left": 249.2322998046875,
+                "top": 92.02679443359375,
+                "width": 194.40725708007812
+              },
+              "confidence": null,
+              "text": "clarification."
+            },
+            {
+              "bbox": {
+                "height": 19.08001708984375,
+                "left": 4.6794586181640625,
+                "top": 100.3787841796875,
+                "width": 38.7888069152832
+              },
+              "confidence": null,
+              "text": "(b)"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 61.56905746459961,
+                "top": 105.8267822265625,
+                "width": 83.4120101928711
+              },
+              "confidence": null,
+              "text": "Notice"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 161.90585327148438,
+                "top": 105.8267822265625,
+                "width": 26.978408813476562
+              },
+              "confidence": null,
+              "text": "of"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 205.61705017089844,
+                "top": 105.8267822265625,
+                "width": 68.84169006347656
+              },
+              "confidence": null,
+              "text": "error"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 292.487548828125,
+                "top": 105.8267822265625,
+                "width": 54.799224853515625
+              },
+              "confidence": null,
+              "text": "from"
+            },
+            {
+              "bbox": {
+                "height": 3.26397705078125,
+                "left": 364.4516296386719,
+                "top": 116.02679443359375,
+                "width": 122.39508056640625
+              },
+              "confidence": null,
+              "text": "consumer."
+            },
+            {
+              "bbox": {
+                "height": 18.1920166015625,
+                "left": 506.9395446777344,
+                "top": 101.0987548828125,
+                "width": 13.6319580078125
+              },
+              "confidence": null,
+              "text": "A"
+            },
+            {
+              "bbox": {
+                "height": 13.27197265625,
+                "left": 537.3283081054688,
+                "top": 106.018798828125,
+                "width": 124.8431396484375
+              },
+              "confidence": null,
+              "text": "financial"
+            },
+            {
+              "bbox": {
+                "height": 13.08001708984375,
+                "left": 681.2322387695312,
+                "top": 106.21075439453125,
+                "width": 154.8956298828125
+              },
+              "confidence": null,
+              "text": "institution"
+            },
+            {
+              "bbox": {
+                "height": 13.27197265625,
+                "left": 854.1806030273438,
+                "top": 106.018798828125,
+                "width": 67.2333984375
+              },
+              "confidence": null,
+              "text": "shall"
+            },
+            {
+              "bbox": {
+                "height": 13.08001708984375,
+                "left": 940.5466918945312,
+                "top": 106.21075439453125,
+                "width": 84.10760498046875
+              },
+              "confidence": null,
+              "text": "comply"
+            },
+            {
+              "bbox": {
+                "height": 13.08001708984375,
+                "left": 1039.6829833984375,
+                "top": 106.21075439453125,
+                "width": 55.68701171875
+              },
+              "confidence": null,
+              "text": "with"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 1112.582763671875,
+                "top": 105.8267822265625,
+                "width": 40.564697265625
+              },
+              "confidence": null,
+              "text": "the"
+            },
+            {
+              "bbox": {
+                "height": 13.08001708984375,
+                "left": 19.801860809326172,
+                "top": 130.21075439453125,
+                "width": 168.09841918945312
+              },
+              "confidence": null,
+              "text": "requirements"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 205.11305236816406,
+                "top": 129.8267822265625,
+                "width": 26.978439331054688
+              },
+              "confidence": null,
+              "text": "of"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 248.4403076171875,
+                "top": 129.8267822265625,
+                "width": 54.679229736328125
+              },
+              "confidence": null,
+              "text": "this"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 321.2923889160156,
+                "top": 129.8267822265625,
+                "width": 97.16641235351562
+              },
+              "confidence": null,
+              "text": "section"
+            },
+            {
+              "bbox": {
+                "height": 13.08001708984375,
+                "left": 434.7835693359375,
+                "top": 130.21075439453125,
+                "width": 55.687164306640625
+              },
+              "confidence": null,
+              "text": "with"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 509.4834899902344,
+                "top": 129.8267822265625,
+                "width": 96.25433349609375
+              },
+              "confidence": null,
+              "text": "respect"
+            },
+            {
+              "bbox": {
+                "height": 13.79998779296875,
+                "left": 622.9026489257812,
+                "top": 129.8267822265625,
+                "width": 26.6663818359375
+              },
+              "confidence": null,
+              "text": "to"
+            },
+            {
+              "bbox": {
+                "height": 13.08001708984375,
+                "left": 666.1818237304688,
+                "top": 130.21075439453125,
+                "width": 41.62078857421875
+              },
+              "confidence": null,
+              "text": "any"
+            },
+            {
+              "bbox": {
+                "height": 13.27197265625,
+                "left": 723.599365234375,
+                "top": 130.018798828125,
+                "width": 53.79119873046875
+              },
+              "confidence": null,
+              "text": "oral"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 795.6112670898438,
+                "top": 129.8267822265625,
+                "width": 26.1383056640625
+              },
+              "confidence": null,
+              "text": "or"
+            },
+            {
+              "bbox": {
+                "height": 13.08001708984375,
+                "left": 838.0502319335938,
+                "top": 130.21075439453125,
+                "width": 98.89404296875
+              },
+              "confidence": null,
+              "text": "written"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 954.85302734375,
+                "top": 129.8267822265625,
+                "width": 83.07568359375
+              },
+              "confidence": null,
+              "text": "notice"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 1054.8533935546875,
+                "top": 129.8267822265625,
+                "width": 26.9783935546875
+              },
+              "confidence": null,
+              "text": "of"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 1098.564453125,
+                "top": 129.8267822265625,
+                "width": 55.0869140625
+              },
+              "confidence": null,
+              "text": "erro"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 5.3994598388671875,
+                "top": 153.8267822265625,
+                "width": 9.815998077392578
+              },
+              "confidence": null,
+              "text": "r"
+            },
+            {
+              "bbox": {
+                "height": 13.08001708984375,
+                "left": 34.20425796508789,
+                "top": 154.21075439453125,
+                "width": 110.6328125
+              },
+              "confidence": null,
+              "text": "received"
+            },
+            {
+              "bbox": {
+                "height": 13.08001708984375,
+                "left": 161.1378631591797,
+                "top": 154.21075439453125,
+                "width": 84.49201965332031
+              },
+              "confidence": null,
+              "text": "within"
+            },
+            {
+              "bbox": {
+                "height": 13.08001708984375,
+                "left": 263.6827087402344,
+                "top": 154.21075439453125,
+                "width": 69.65765380859375
+              },
+              "confidence": null,
+              "text": "sixty"
+            },
+            {
+              "bbox": {
+                "height": 13.416015625,
+                "left": 349.47320556640625,
+                "top": 154.21075439453125,
+                "width": 54.463165283203125
+              },
+              "confidence": null,
+              "text": "days"
+            },
+            {
+              "bbox": {
+                "height": 13.27197265625,
+                "left": 421.3411560058594,
+                "top": 154.018798828125,
+                "width": 69.153564453125
+              },
+              "confidence": null,
+              "text": "after"
+            },
+            {
+              "bbox": {
+                "height": 17.280029296875,
+                "left": 508.4034729003906,
+                "top": 150.0107421875,
+                "width": 25.3223876953125
+              },
+              "confidence": null,
+              "text": "it"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 551.730712890625,
+                "top": 153.8267822265625,
+                "width": 68.24151611328125
+              },
+              "confidence": null,
+              "text": "sends"
+            },
+            {
+              "bbox": {
+                "height": 13.60797119140625,
+                "left": 637.3770141601562,
+                "top": 154.018798828125,
+                "width": 11.904052734375
+              },
+              "confidence": null,
+              "text": "a"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 666.6378173828125,
+                "top": 153.8267822265625,
+                "width": 112.000732421875
+              },
+              "confidence": null,
+              "text": "periodic"
+            },
+            {
+              "bbox": {
+                "height": 3.26397705078125,
+                "left": 796.5712280273438,
+                "top": 164.02679443359375,
+                "width": 136.7491455078125
+              },
+              "confidence": null,
+              "text": "statement."
+            },
+            {
+              "bbox": {
+                "height": 13.79998779296875,
+                "left": 4.6794586181640625,
+                "top": 177.8267822265625,
+                "width": 38.7888069152832
+              },
+              "confidence": null,
+              "text": "(c)"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 60.633060455322266,
+                "top": 177.8267822265625,
+                "width": 55.543212890625
+              },
+              "confidence": null,
+              "text": "Time"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 133.50906372070312,
+                "top": 177.8267822265625,
+                "width": 83.19599914550781
+              },
+              "confidence": null,
+              "text": "limits"
+            },
+            {
+              "bbox": {
+                "height": 13.27197265625,
+                "left": 234.10989379882812,
+                "top": 178.018798828125,
+                "width": 40.348846435546875
+              },
+              "confidence": null,
+              "text": "and"
+            },
+            {
+              "bbox": {
+                "height": 13.08001708984375,
+                "left": 292.03155517578125,
+                "top": 178.21075439453125,
+                "width": 83.26803588867188
+              },
+              "confidence": null,
+              "text": "extent"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 392.3443908691406,
+                "top": 177.8267822265625,
+                "width": 26.9783935546875
+              },
+              "confidence": null,
+              "text": "of"
+            },
+            {
+              "bbox": {
+                "height": 3.26397705078125,
+                "left": 436.3915710449219,
+                "top": 188.02679443359375,
+                "width": 194.47906494140625
+              },
+              "confidence": null,
+              "text": "investigation."
+            },
+            {
+              "bbox": {
+                "height": 18.1920166015625,
+                "left": 650.9634399414062,
+                "top": 173.0987548828125,
+                "width": 13.6319580078125
+              },
+              "confidence": null,
+              "text": "A"
+            },
+            {
+              "bbox": {
+                "height": 13.27197265625,
+                "left": 681.3522338867188,
+                "top": 178.018798828125,
+                "width": 124.843017578125
+              },
+              "confidence": null,
+              "text": "financial"
+            },
+            {
+              "bbox": {
+                "height": 13.08001708984375,
+                "left": 825.2559204101562,
+                "top": 178.21075439453125,
+                "width": 154.8953857421875
+              },
+              "confidence": null,
+              "text": "institution"
+            },
+            {
+              "bbox": {
+                "height": 13.27197265625,
+                "left": 998.2039794921875,
+                "top": 178.018798828125,
+                "width": 67.2333984375
+              },
+              "confidence": null,
+              "text": "shall"
+            },
+            {
+              "bbox": {
+                "height": 13.08001708984375,
+                "left": 1084.498046875,
+                "top": 178.21075439453125,
+                "width": 68.3614501953125
+              },
+              "confidence": null,
+              "text": "inves"
+            },
+            {
+              "bbox": {
+                "height": 13.27197265625,
+                "left": 3.599456787109375,
+                "top": 202.018798828125,
+                "width": 83.77198791503906
+              },
+              "confidence": null,
+              "text": "tigate"
+            },
+            {
+              "bbox": {
+                "height": 13.08001708984375,
+                "left": 104.94425964355469,
+                "top": 202.21075439453125,
+                "width": 113.17678833007812
+              },
+              "confidence": null,
+              "text": "promptly"
+            },
+            {
+              "bbox": {
+                "height": 13.27197265625,
+                "left": 234.10989379882812,
+                "top": 202.018798828125,
+                "width": 40.348846435546875
+              },
+              "confidence": null,
+              "text": "and"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 291.8635559082031,
+                "top": 201.8267822265625,
+                "width": 126.76324462890625
+              },
+              "confidence": null,
+              "text": "determine"
+            },
+            {
+              "bbox": {
+                "height": 13.08001708984375,
+                "left": 434.7835693359375,
+                "top": 202.21075439453125,
+                "width": 98.91836547851562
+              },
+              "confidence": null,
+              "text": "whether"
+            },
+            {
+              "bbox": {
+                "height": 13.27197265625,
+                "left": 550.9627075195312,
+                "top": 202.018798828125,
+                "width": 25.92242431640625
+              },
+              "confidence": null,
+              "text": "an"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 594.4818725585938,
+                "top": 201.8267822265625,
+                "width": 68.841552734375
+              },
+              "confidence": null,
+              "text": "error"
+            },
+            {
+              "bbox": {
+                "height": 13.08001708984375,
+                "left": 680.3922119140625,
+                "top": 202.21075439453125,
+                "width": 112.55267333984375
+              },
+              "confidence": null,
+              "text": "occurred"
+            },
+            {
+              "bbox": {
+                "height": 13.08001708984375,
+                "left": 809.2455444335938,
+                "top": 202.21075439453125,
+                "width": 84.49169921875
+              },
+              "confidence": null,
+              "text": "within"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 910.9500122070312,
+                "top": 201.8267822265625,
+                "width": 40.3966064453125
+              },
+              "confidence": null,
+              "text": "ten"
+            },
+            {
+              "bbox": {
+                "height": 13.08001708984375,
+                "left": 969.0873413085938,
+                "top": 202.21075439453125,
+                "width": 111.76043701171875
+              },
+              "confidence": null,
+              "text": "business"
+            },
+            {
+              "bbox": {
+                "height": 13.416015625,
+                "left": 1098.3963623046875,
+                "top": 202.21075439453125,
+                "width": 54.463134765625
+              },
+              "confidence": null,
+              "text": "days"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 17.881858825683594,
+                "top": 225.8267822265625,
+                "width": 26.978404998779297
+              },
+              "confidence": null,
+              "text": "of"
+            },
+            {
+              "bbox": {
+                "height": 13.08001708984375,
+                "left": 63.00905227661133,
+                "top": 226.21075439453125,
+                "width": 125.03521728515625
+              },
+              "confidence": null,
+              "text": "receiving"
+            },
+            {
+              "bbox": {
+                "height": 13.60797119140625,
+                "left": 205.30506896972656,
+                "top": 226.018798828125,
+                "width": 11.904006958007812
+              },
+              "confidence": null,
+              "text": "a"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 234.73391723632812,
+                "top": 225.8267822265625,
+                "width": 83.0760498046875
+              },
+              "confidence": null,
+              "text": "notice"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 334.7347717285156,
+                "top": 225.8267822265625,
+                "width": 26.978424072265625
+              },
+              "confidence": null,
+              "text": "of"
+            },
+            {
+              "bbox": {
+                "height": 3.26397705078125,
+                "left": 378.4460144042969,
+                "top": 236.02679443359375,
+                "width": 79.595947265625
+              },
+              "confidence": null,
+              "text": "error."
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 478.3027648925781,
+                "top": 225.8267822265625,
+                "width": 41.1407470703125
+              },
+              "confidence": null,
+              "text": "The"
+            },
+            {
+              "bbox": {
+                "height": 13.08001708984375,
+                "left": 537.2083129882812,
+                "top": 226.21075439453125,
+                "width": 154.89593505859375
+              },
+              "confidence": null,
+              "text": "institution"
+            },
+            {
+              "bbox": {
+                "height": 13.08001708984375,
+                "left": 709.0289916992188,
+                "top": 226.21075439453125,
+                "width": 41.98077392578125
+              },
+              "confidence": null,
+              "text": "may"
+            },
+            {
+              "bbox": {
+                "height": 13.27197265625,
+                "left": 766.9265747070312,
+                "top": 226.018798828125,
+                "width": 54.96697998046875
+              },
+              "confidence": null,
+              "text": "take"
+            },
+            {
+              "bbox": {
+                "height": 13.416015625,
+                "left": 839.4902954101562,
+                "top": 226.21075439453125,
+                "width": 25.7783203125
+              },
+              "confidence": null,
+              "text": "up"
+            },
+            {
+              "bbox": {
+                "height": 13.79998779296875,
+                "left": 882.1453247070312,
+                "top": 225.8267822265625,
+                "width": 26.666259765625
+              },
+              "confidence": null,
+              "text": "to"
+            },
+            {
+              "bbox": {
+                "height": 1.82403564453125,
+                "left": 926.1923217773438,
+                "top": 231.0107421875,
+                "width": 140.54107666015625
+              },
+              "confidence": null,
+              "text": "forty-five"
+            },
+            {
+              "bbox": {
+                "height": 13.416015625,
+                "left": 1083.9940185546875,
+                "top": 226.21075439453125,
+                "width": 54.463134765625
+              },
+              "confidence": null,
+              "text": "days"
+            },
+            {
+              "bbox": {
+                "height": 19.27197265625,
+                "left": 4.3194580078125,
+                "top": 244.018798828125,
+                "width": 26.13840103149414
+              },
+              "confidence": null,
+              "text": "if"
+            },
+            {
+              "bbox": {
+                "height": 17.280029296875,
+                "left": 47.52666091918945,
+                "top": 246.0107421875,
+                "width": 25.322402954101562
+              },
+              "confidence": null,
+              "text": "it"
+            },
+            {
+              "bbox": {
+                "height": 13.08001708984375,
+                "left": 90.54185485839844,
+                "top": 250.21075439453125,
+                "width": 185.18885803222656
+              },
+              "confidence": null,
+              "text": "provisionally"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 292.4395446777344,
+                "top": 249.8267822265625,
+                "width": 97.094482421875
+              },
+              "confidence": null,
+              "text": "credits"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 406.8667907714844,
+                "top": 249.8267822265625,
+                "width": 40.564788818359375
+              },
+              "confidence": null,
+              "text": "the"
+            },
+            {
+              "bbox": {
+                "height": 1.44000244140625,
+                "left": 465.2683410644531,
+                "top": 250.21075439453125,
+                "width": 140.301513671875
+              },
+              "confidence": null,
+              "text": "consumer's"
+            },
+            {
+              "bbox": {
+                "height": 13.08001708984375,
+                "left": 622.9746704101562,
+                "top": 250.21075439453125,
+                "width": 97.9822998046875
+              },
+              "confidence": null,
+              "text": "account"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 738.9617919921875,
+                "top": 249.8267822265625,
+                "width": 39.58074951171875
+              },
+              "confidence": null,
+              "text": "for"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 795.7312622070312,
+                "top": 249.8267822265625,
+                "width": 40.56463623046875
+              },
+              "confidence": null,
+              "text": "the"
+            },
+            {
+              "bbox": {
+                "height": 13.08001708984375,
+                "left": 853.41259765625,
+                "top": 250.21075439453125,
+                "width": 83.57977294921875
+              },
+              "confidence": null,
+              "text": "amount"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 954.0370483398438,
+                "top": 249.8267822265625,
+                "width": 26.9783935546875
+              },
+              "confidence": null,
+              "text": "of"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 997.364013671875,
+                "top": 249.8267822265625,
+                "width": 40.564697265625
+              },
+              "confidence": null,
+              "text": "the"
+            },
+            {
+              "bbox": {
+                "height": 13.27197265625,
+                "left": 1055.04541015625,
+                "top": 250.018798828125,
+                "width": 97.9580078125
+              },
+              "confidence": null,
+              "text": "alleged"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 18.385860443115234,
+                "top": 273.8267822265625,
+                "width": 68.84159088134766
+              },
+              "confidence": null,
+              "text": "error"
+            },
+            {
+              "bbox": {
+                "height": 13.08001708984375,
+                "left": 103.52825927734375,
+                "top": 274.21075439453125,
+                "width": 84.49200439453125
+              },
+              "confidence": null,
+              "text": "within"
+            },
+            {
+              "bbox": {
+                "height": 13.4639892578125,
+                "left": 205.23306274414062,
+                "top": 273.8267822265625,
+                "width": 40.396820068359375
+              },
+              "confidence": null,
+              "text": "ten"
+            },
+            {
+              "bbox": {
+                "height": 13.08001708984375,
+                "left": 263.3707275390625,
+                "top": 274.21075439453125,
+                "width": 111.76089477539062
+              },
+              "confidence": null,
+              "text": "business"
+            },
+            {
+              "bbox": {
+                "height": 3.5999755859375,
+                "left": 392.6803894042969,
+                "top": 284.02679443359375,
+                "width": 65.361572265625
+              },
+              "confidence": null,
+              "text": "days."
+            }
+          ],
+          "page_height": 1584,
+          "page_number": 1,
+          "page_width": 1224,
+          "references": null,
+          "segment_id": "52b912fb-4803-474b-b9bb-37d7ec075db8",
+          "segment_type": "Text"
+        }
+      ]
+    }
+  ],
+  "configuration": {
+    "agentic_ocr": null,
+    "chunk_processing": {
+      "ignore_headers_and_footers": false,
+      "target_length": 512,
+      "tokenizer": {
+        "Enum": "Word"
+      }
+    },
+    "detect_checkboxes": false,
+    "detect_pii": false,
+    "enhance_reading_order": false,
+    "error_handling": "Continue",
+    "expires_in": null,
+    "extract_charts": false,
+    "extract_colors": false,
+    "extract_links": false,
+    "extract_strikethrough": false,
+    "high_resolution": true,
+    "input_file_url": null,
+    "layout_analysis": "smart_layout_detection",
+    "merge_batch_size": 20,
+    "merge_tables": false,
+    "ocr_engine": "UnsiloedHawk",
+    "ocr_strategy": "auto_detection",
+    "output_fields": {
+      "bbox": true,
+      "chart_data": true,
+      "confidence": true,
+      "content": true,
+      "embed": true,
+      "html": true,
+      "image": true,
+      "markdown": true,
+      "ocr": true
+    },
+    "page_numbers": null,
+    "page_range": null,
+    "pii_block_severity": "any",
+    "pii_engine": "standard",
+    "segment_analysis": {
+      "Caption": {
+        "content_source": "OCR",
+        "crop_image": "All",
+        "embed_sources": [
+          "Markdown"
+        ],
+        "extended_context": false,
+        "html": "Auto",
+        "markdown": "Auto",
+        "vlm": null
+      },
+      "Footnote": {
+        "content_source": "OCR",
+        "crop_image": "All",
+        "embed_sources": [
+          "Markdown"
+        ],
+        "extended_context": false,
+        "html": "Auto",
+        "markdown": "Auto",
+        "vlm": null
+      },
+      "Formula": {
+        "content_source": "OCR",
+        "crop_image": "All",
+        "embed_sources": [
+          "Markdown"
+        ],
+        "extended_context": false,
+        "html": "Auto",
+        "markdown": "VLM",
+        "model_id": "default-model",
+        "use_table_ocr": false,
+        "vlm": null
+      },
+      "ListItem": {
+        "content_source": "OCR",
+        "crop_image": "All",
+        "embed_sources": [
+          "Markdown"
+        ],
+        "extended_context": false,
+        "html": "Auto",
+        "markdown": "Auto",
+        "vlm": null
+      },
+      "Page": {
+        "content_source": "OCR",
+        "crop_image": "All",
+        "embed_sources": [
+          "Markdown"
+        ],
+        "extended_context": false,
+        "html": "VLM",
+        "markdown": "VLM",
+        "model_id": null,
+        "use_table_ocr": false,
+        "vlm": null
+      },
+      "PageFooter": {
+        "content_source": "OCR",
+        "crop_image": "All",
+        "embed_sources": [
+          "Markdown"
+        ],
+        "extended_context": false,
+        "html": "Auto",
+        "markdown": "Auto",
+        "vlm": null
+      },
+      "PageHeader": {
+        "content_source": "OCR",
+        "crop_image": "All",
+        "embed_sources": [
+          "Markdown"
+        ],
+        "extended_context": false,
+        "html": "Auto",
+        "markdown": "Auto",
+        "vlm": null
+      },
+      "Picture": {
+        "content_source": "OCR",
+        "crop_image": "All",
+        "embed_sources": [
+          "Markdown"
+        ],
+        "extended_context": false,
+        "html": "Auto",
+        "markdown": "VLM",
+        "model_id": "default-model",
+        "vlm": null
+      },
+      "SectionHeader": {
+        "content_source": "OCR",
+        "crop_image": "All",
+        "embed_sources": [
+          "Markdown"
+        ],
+        "extended_context": false,
+        "html": "Auto",
+        "markdown": "Auto",
+        "vlm": null
+      },
+      "Table": {
+        "content_source": "OCR",
+        "crop_image": "All",
+        "embed_sources": [
+          "Markdown"
+        ],
+        "extended_context": false,
+        "html": "VLM",
+        "markdown": "Auto",
+        "model_id": "default-table-model",
+        "use_table_ocr": false,
+        "vlm": null
+      },
+      "Text": {
+        "content_source": "OCR",
+        "crop_image": "All",
+        "embed_sources": [
+          "Markdown"
+        ],
+        "extended_context": false,
+        "html": "Auto",
+        "markdown": "Auto",
+        "vlm": null
+      },
+      "Title": {
+        "content_source": "OCR",
+        "crop_image": "All",
+        "embed_sources": [
+          "Markdown"
+        ],
+        "extended_context": false,
+        "html": "Auto",
+        "markdown": "Auto",
+        "vlm": null
+      }
+    },
+    "segment_filter": "all",
+    "segment_type_naming": "Unsiloed",
+    "validate_segments": [
+      "Table",
+      "Picture"
+    ],
+    "xml_citation": false
+  },
+  "created_at": "2026-06-07T13:00:59.916679Z",
+  "credit_used": 1,
+  "file_name": "disputes_source.pdf",
+  "file_type": "application/pdf",
+  "file_url": null,
+  "finished_at": "2026-06-07T13:01:02.294697Z",
+  "job_id": "2bbf807d-a7e6-461f-b2f1-92650672dffd",
+  "merge_tables": false,
+  "message": "Task succeeded",
+  "metadata": {},
+  "page_count": 1,
+  "pdf_url": null,
+  "started_at": "2026-06-07T13:00:59.999887Z",
+  "status": "Succeeded",
+  "total_chunks": 1
+}
